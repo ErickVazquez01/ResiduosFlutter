@@ -58,7 +58,7 @@ class _BottomNavBarState extends State<MyApp> {
                 margin: EdgeInsets.zero,
                 padding: EdgeInsets.zero,
                 decoration: const BoxDecoration(
-                    color: Color.fromARGB(255, 98, 160, 115),
+                    color: Color.fromARGB(255, 206, 206, 206),
                     image: DecorationImage(
                         fit: BoxFit.contain,
                         image: AssetImage('assets/images/logo.png'))),

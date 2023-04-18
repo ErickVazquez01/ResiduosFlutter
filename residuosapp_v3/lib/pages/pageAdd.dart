@@ -38,7 +38,7 @@ class PageAdd extends StatelessWidget {
               )),
           Expanded(
               child: Container(
-            color: Color.fromARGB(255, 236, 140, 140),
+            color: const Color.fromARGB(255, 236, 140, 140),
           )),
           Center(
             child: Text(
